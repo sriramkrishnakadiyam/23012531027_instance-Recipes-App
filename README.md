@@ -1,5 +1,4 @@
-# Recipes App ✨
-
+# Recipes App 
 ## Introduction
 <li>Welcome to the Recipe App! This Android application is built with Kotlin and is designed to help users discover new recipes.</li>
 
